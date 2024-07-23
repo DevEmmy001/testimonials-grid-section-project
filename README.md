@@ -16,7 +16,7 @@ My challenge was to build out this testimonials grid section and get it looking 
 
 I used HTML AND CSS to acheive it
 
-my aim is that the users should be able to:
+My aim is that the users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
@@ -35,5 +35,5 @@ my aim is that the users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@DevEmmy001](https://www.frontendmentor.io/profile/@DevEmmy001)
+- Frontend Mentor - [@DevEmmy001](https://www.frontendmentor.io/profile/DevEmmy001)
 - Facebook - [@Eme ka](https://web.facebook.com/profile.php?id=61556678761246)
