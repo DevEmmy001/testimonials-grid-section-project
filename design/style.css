@@ -332,39 +332,30 @@
   /* styling for the profile section */
   .section_1 {
     background-color: var(--Moderate_violet);
-    padding: 3%;
+
     border-radius: 20px;
-    grid-area: 1 / 5 / 6 / 6;
   }
   .section_2 {
     background-color: var(--Very_dark_grayish_blue);
-    padding: 3%;
+
     border-radius: 20px;
-    grid-area: 1 / 4 / 4 / 5;
   }
   .section_3 {
     background-color: var(--White);
-    padding: 3%;
+
     border-radius: 20px;
-    grid-area: 1 / 1 / 4 / 4;
   }
   .section_4 {
     background-color: var(--Very_dark_blackish_blue);
-    padding: 3%;
+
     border-radius: 20px;
-    grid-area: 4 / 3 / 6 / 5;
   }
   .section_5 {
     background-color: var(--White);
-    padding: 3%;
+
     border-radius: 20px;
-    grid-area: 4 / 1 / 6 / 3;
   }
   #testimonials-grid-section {
     display: grid;
-    grid-template-columns: repeat(3, 1fr) repeat(2, 2fr);
-    grid-template-rows: repeat(3, 1fr) 2fr 1fr;
-    grid-column-gap: 30px;
-    grid-row-gap: 30px;
   }
 }
